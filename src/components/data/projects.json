@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce",
+    "imageSrc": "projects/E-Com.jpg",
+    "description": "An ASP.NET Core-based application for shopping cart.",
+    "demo": "https://github.com/Rafiullah11",
+    "source": "https://github.com/Rafiullah11/ShoppingCart"
+  },
+  {
+    "key": 2,
+    "title": "Blogging API",
+    "imageSrc": "projects/Blog.jpg",
+    "description": "A RESTful API for managing blogs, posts, and users.",
+    "demo": "https://github.com/Rafiullah11",
+    "source": "https://github.com/Rafiullah11/BlogingAPI"
+  },
+  {
+    "key": 3,
+    "title": "School Management",
+    "imageSrc": "projects/SMS.png",
+    "description": "An ASP.NET Core MVC app for managing school operations.",
+    "demo": "https://github.com/Rafiullah11",
+    "source": "https://github.com/Rafiullah11/School-Management-system"
+  },
+  {
+    "key": 4,
+    "title": "Appointment Scheduler",
+    "imageSrc": "projects/AppointmentSechduler.jpg",
+    "description": "A scheduling app built with ASP.NET Core MVC.",
+    "demo": "https://github.com/Rafiullah11",
+    "source": "https://github.com/Rafiullah11/AppointmentSechduler"
+  },
+  {
+    "key": 5,
+    "title": "Employee Management",
+    "imageSrc": "projects/Employee.jpg",
+    "description": "An ASP.NET Core MVC system for managing employees.",
+    "demo": "https://github.com/Rafiullah11",
+    "source": "https://github.com/Rafiullah11/EmployeeManagement"
+  },
+  {
+    "key": 6,
+    "title": "Website for KYWO",
+    "imageSrc": "projects/Website.JPG",
+    "description": "Website build using An ASP.NET Core MVC.",
+    "demo": "https://github.com/Rafiullah11",
+    "source": "https://github.com/Rafiullah11/KhyberYouth"
+  }
+]
