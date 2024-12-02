@@ -43,7 +43,7 @@
     "key": 6,
     "title": "Website for KYWO",
     "imageSrc": "projects/Website.JPG",
-    "description": "Website build using An ASP.NET Core MVC.",
+    "description": "Website build using ASP.NET Core MVC.",
     "demo": "https://github.com/Rafiullah11",
     "source": "https://github.com/Rafiullah11/KhyberYouth"
   }
